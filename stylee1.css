@@ -1,0 +1,34 @@
+*{
+    margin : 0;
+    padding: 0:
+}
+body{
+    background-image: url("./coffie.jpeg");
+ background-color: #cccccc;
+}
+
+div.main{
+    width :400px;
+    margin:100px auto 0px auto;
+
+}
+h2{ 
+    text-align: center;
+    padding: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+div.Register{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    font-size : 18px;
+    border-radius: 10px;
+    box-shadow : 2px 2px 15px;
+    border :1px soid rgba(255,255,255,0.3);
+    rgba(0,0,0,0.3);
+    color: #fff;
+}
+form#Register{
+    margin:40px;
+
+}
